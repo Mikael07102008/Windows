@@ -1,0 +1,91 @@
+body{
+    margin:0;
+    text-align:center ;
+    bottom: 0;
+    background: linear-gradient( blue 0%, #00BFFF 100%)
+}
+img{
+    width: 750;
+    height: 400;
+    border-radius: 2cqmin;
+}
+h1{
+    font-size: 1cqmin;
+    background-color: blue;
+}
+a{
+    font-size:2cqmin;
+}
+iframe{
+    border-radius:1cqmin;;
+}
+h2{
+    font-size: 50;
+    background-color: blue;
+}
+div{
+    text-align: center;
+}
+.foto{
+    border-radius: 2cqmin;
+}
+
+#Sobre{
+    bottom: 0;
+    background: linear-gradient( blue 0%, #00BFFF 100%)
+}
+#Videos{
+    background: linear-gradient(black	0%, gray 100%);
+}
+#Contatos{
+    background: linear-gradient( #8B4513 0%, #7cFC00 100%)
+
+}
+.parallax.inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+.myNavbar {
+    position:relative;
+    top: 0;
+    z-index: 9;
+}
+.foto {
+    width: 100%;
+    height: 100%;
+    border-radius: 0%;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 20px;
+    font-family: 'Press Start 2P';
+    font-size: 20px;
+}
+.links:hover {
+    font-size: 25px;
+}
+#contatos iframe {
+    width: 100%;
+}
+#microsoft {
+    border-radius: 0%;
+}
+.map {
+    border-radius: 0% ;
+}
+.microsoft_1 h3 {
+    display: inline;
+    padding-bottom: 30px;
+    color: white;
+}
+.videos {
+    background-color: gray;
+}
+.fabfa-youtube{
+    color: white;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
